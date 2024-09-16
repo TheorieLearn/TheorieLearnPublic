@@ -1,5 +1,5 @@
-# PL-algorithms
-PrairieLearn resources for algorithms classes
+# TheorieLearnPublic
+PrairieLearn resources for theoretical computer science classes
 
 <p>
 All text in this repository is published under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC-BY 4.0)</a> licence.
